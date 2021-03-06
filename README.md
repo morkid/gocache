@@ -3,6 +3,7 @@
 [![Go](https://github.com/morkid/gocache/actions/workflows/go.yml/badge.svg)](https://github.com/morkid/gocache/actions/workflows/go.yml)
 [![Build Status](https://travis-ci.com/morkid/gocache.svg?branch=master)](https://travis-ci.com/morkid/gocache)
 [![Go Report Card](https://goreportcard.com/badge/github.com/morkid/gocache)](https://goreportcard.com/report/github.com/morkid/gocache)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/morkid/gocache)](https://github.com/morkid/gocache/releases)
 
 ## Installation
 ```bash
