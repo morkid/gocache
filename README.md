@@ -1,5 +1,5 @@
 # gocache - simple key value cache adapter for golang
-[![Github Actions](https://github.com/morkid/gocache/workflows/Go/badge.svg)](https://github.com/morkid/gocache/actions)
+[![Go](https://github.com/morkid/gocache/actions/workflows/go.yml/badge.svg)](https://github.com/morkid/gocache/actions/workflows/go.yml)
 [![Build Status](https://travis-ci.com/morkid/gocache.svg?branch=master)](https://travis-ci.com/morkid/gocache)
 
 ## Installation
