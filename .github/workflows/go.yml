@@ -6,7 +6,7 @@ on:
     paths:
     - '**.go'
     - '**.mod'
-    - '**.md'
+    - '**.yml'
     - '**.sum'
   pull_request:
     branches: [ master ]
