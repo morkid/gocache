@@ -75,16 +75,16 @@ You can create your custom cache adapter by implementing the `AdapterInterface`:
 ```go
 type AdapterInterface interface {
 
-	Set(key string, value string) error
+    Set(key string, value string) error
 
-	Get(key string) (string, error)
-	
+    Get(key string) (string, error)
+    
     IsValid(key string) bool
-	
+    
     Clear(key string) error
-	
+    
     ClearPrefix(keyPrefix string) error
-	
+    
     ClearAll() error
 }
 ```
