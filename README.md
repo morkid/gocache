@@ -92,4 +92,4 @@ type AdapterInterface interface {
 
 ## License
 
-Published under the [MIT License](https://github.com/morkid/paginate/blob/master/LICENSE).
+Published under the [MIT License](https://github.com/morkid/gocache/blob/master/LICENSE).
